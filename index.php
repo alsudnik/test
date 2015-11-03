@@ -1,5 +1,5 @@
 <?
-echo "View php info";
+echo "View php info2";
 phpInfo();
 echo "end";
 ?>
